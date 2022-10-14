@@ -1,13 +1,16 @@
 <h1 align="center">Welcome to jychpr's Github!!!</h1>
 
-<h3>I'm Joy Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.</h3>
+<h3>I'm __Joy__ Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.</h3>
 I'm curious about AI and its implementation. Computer Vision (CV), Natural Language Processing (NLP), and other AI fields out there.
+
 I have done several AI related projects. I also have some experience in Data Science (DS) and Data Analytics (DA) field from some related projects as well.
+
 I focus mainly on AI field and its implementation, then also on DS and DA field.
 
 ---
 
 You can find me here.
+
 <a href="https://www.linkedin.com/in/joychrissetyoprajogo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;&nbsp;
@@ -20,7 +23,8 @@ You can find me here.
 <a href="https://www.kaggle.com/jychpr">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>&nbsp;&nbsp;
-Yes, I have 2 kaggle account. I wanted to merge the first one to the second one, but encountered some problem. Then I just stick with both of them. The second one still empty and will be active and become main Kaggle account soon.
+
+Yes, I have 2 kaggle account. The second one still empty and will be active and become main Kaggle account in the future.
 
 ---
 
