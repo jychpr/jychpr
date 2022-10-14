@@ -30,7 +30,7 @@ Yes, I have 2 kaggle account. The second one still empty and will be active and 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=jychpr&color=brightgreen&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=jychpr&color=brightgreen&style=flat-square">
 
 <!--
 ### Hi there 👋
