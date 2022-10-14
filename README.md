@@ -1,11 +1,34 @@
-### Hi there 👋
+<h1 align="center">Welcome to jychpr's Github!!!</h1>
 
+<h3>I'm Joy Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.</h3>
+I'm curious about AI and its implementation. Computer Vision (CV), Natural Language Processing (NLP), and other AI fields out there.
+I have done several AI related projects. I also have some experience in Data Science (DS) and Data Analytics (DA) field from some related projects as well.
+I focus mainly on AI field and its implementation, then also on DS and DA field.
 
-___
+---
+
+You can find me here.
+<a href="https://www.linkedin.com/in/joychrissetyoprajogo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/jychpr">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/joycpkxatze">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/jychpr">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>&nbsp;&nbsp;
+Yes, I have 2 kaggle account. I wanted to merge the first one to the second one, but encountered some problem. Then I just stick with both of them. The second one still empty and will be active and become main Kaggle account soon.
+
+---
 
 ![](https://komarev.com/ghpvc/?username=jychpr&color=brightgreen&style=flat-square)
 
 <!--
+### Hi there 👋
+
 **jychpr/jychpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
