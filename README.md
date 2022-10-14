@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to jychpr's Github!!!</h1>
 
-I'm __Joy__ Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.
+I'm **Joy** Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.
+
 I'm curious about AI and its implementation. Computer Vision (CV), Natural Language Processing (NLP), and other AI fields out there.
 
 
