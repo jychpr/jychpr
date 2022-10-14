@@ -1,4 +1,4 @@
-<div align="center">Welcome to jychpr's Github!!!</div>
+<h1 align="center">Welcome to jychpr's Github!!!</h1>
 
 I'm Joy Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.
 
