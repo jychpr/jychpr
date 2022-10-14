@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to jychpr's Github!!!</h1>
 
-I'm **Joy** Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.
+I'm <b>Joy</b> Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.
 
 I'm curious about AI and its implementation. Computer Vision (CV), Natural Language Processing (NLP), and other AI fields out there.
 
@@ -25,8 +25,7 @@ You can find me here.
 <a href="https://www.kaggle.com/jychpr">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>&nbsp;&nbsp;
-
-
+<br>
 Yes, I have 2 kaggle account. The second one still empty and will be active and become main Kaggle account in the future.
 
 ---
