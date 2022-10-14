@@ -30,6 +30,7 @@ Yes, I have 2 kaggle account. The second one still empty and will be active and 
 
 ---
 
+Profile hit count: 
 <img src="https://komarev.com/ghpvc/?username=jychpr&color=brightgreen&style=flat-square" target="_blank" rel="noopener noreferrer">
 
 <!--
