@@ -14,16 +14,16 @@ I focus mainly on AI field and its implementation, then also on DS and DA field.
 You can find me here.
 
 <a href="https://www.linkedin.com/in/joychrissetyoprajogo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/jychpr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer">
 </a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/joycpkxatze" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" rel="noopener noreferrer">
 </a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/jychpr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" rel="noopener noreferrer">
 </a>&nbsp;&nbsp;
 
 Yes, I have 2 kaggle account. The second one still empty and will be active and become main Kaggle account in the future.
