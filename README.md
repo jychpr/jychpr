@@ -1,13 +1,12 @@
-<h1 align="center">Welcome to jychpr's Github!!!</h1>
+<h1 align="center">Welcome !!!</h1>
 
-I'm Joy Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast.
+I am Joy Chrissetyo Prajogo, an Artificial Intelligence (AI) enthusiast. Currently, I am a Master student in Electrical Engineering and Computer Science (EECS) International Graduate Program (IGP) in National Yang Ming Chiao Tung University (NYCU), Hsinchu, Taiwan. I graduated from my Bachelor in Information Engineering (InfE) from Gadjah Mada University (UGM), Yogyakarta, Indonesia.
 
-I'm curious about AI and its implementation. Computer Vision (CV), Natural Language Processing (NLP), and other AI fields out there.
+I have interest in AI and its implementation. Computer Vision (CV), Natural Language Processing (NLP), Signal Processing (SP), and their implementations.
 
+I have past experiences in Data Engineering (DE), Data Science (DS), and Data Analytics (DA) field as well.
 
-I have done several AI related projects. I also have some experience in Data Science (DS) and Data Analytics (DA) field from some related projects as well.
-
-I focus mainly on AI field and its implementation, then also on DS and DA field.
+I focus mainly on AI field and its implementation, then also on DE, DS, and DA field.
 
 ---
 
@@ -19,19 +18,13 @@ You can find me here.
 <a href="https://github.com/jychpr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer">
 </a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/joycpkxatze" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" rel="noopener noreferrer">
-</a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/jychpr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" rel="noopener noreferrer">
 </a>&nbsp;&nbsp;
 
-Yes, I have 2 kaggle account. The second one still empty and will be active and become main Kaggle account in the future.
-
 ---
 
-Profile hit count: 
-<img src="https://komarev.com/ghpvc/?username=jychpr&color=brightgreen&style=flat-square" target="_blank" rel="noopener noreferrer">
+return !!!
 
 <!--
 ### Hi there 👋
